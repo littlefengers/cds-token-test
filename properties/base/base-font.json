@@ -1,0 +1,23 @@
+{
+    "font" : {
+        "size" : {
+            "7" : {"value": "28px"},
+            "6" : {"value": "24px"},
+            "5" : {"value": "22px"},
+            "4" : {"value": "18px"},
+            "3" : {"value": "16px"},
+            "2" : {"value": "14px"},
+            "1" : {"value": "12px"}
+        },
+        "line-height" : {
+            "xl" :{"value": "32px"},
+            "lg" :{"value": "28px"},
+            "md" :{"value": "24px"},
+            "sm" :{"value": "20px"}
+        },
+        "weight" : {
+            "default" : {"value" : "400"},
+            "bold" : {"value" : "700"}
+        }
+    }
+}
